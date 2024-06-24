@@ -9,8 +9,7 @@ Não tenho experiência no setor de tecnologia, essa oportunidade dada pela Comp
 Construi a minha carreira profissional no setor gastronômico e de eventos, onde comecei como garçom e fui progredindo
 até chegar ao cargo de gerente de restaurantes. Atuo agora como organizador de eventos, gerenciando uma equipe de garçons.
 
-Tive o meu primeiro computador com cinco anos e desde então, sempre fui muito ligado a tecnologia. Meus passatempos favoritos
-são jogar videogames, jogos de tabuleiro e jogos de carta.
+Meus passatempos favoritos são jogar videogames, jogos de tabuleiro e carta. Também sou fascinado por futebol e pratico ciclismo!
 
 Além dos meu trabalho, estudo e hobbies, faço trabalho voluntário na Bem-estar animal, auxiliando nos cuidados com os animais desalojados pela enchente que assolou o Rio Grande do Sul e faço trabalho voluntário em escolas de regiões carentes de Canoas, financiando e preparando refeições para os alunos.
 
