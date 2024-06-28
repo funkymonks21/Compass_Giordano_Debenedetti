@@ -63,3 +63,9 @@ Para poder executar o script, é necessário dar permissão para tal, para isso,
 
 Por fim, agendei a execução do script usando o cron. Para isso, acessei o cron pelo comando "crontab -e" e marquei a execução do script, para executar todos os dias as 15:12.
 ![Cron](Evidencias/Cron.jpg)
+
+### Refinando os relatórios
+
+Por fim, criei o script 'consolidade_de_processamento_de_vendas.sh' para juntar os relatórios em um só. Para isso utilizei 'cd' para ir até a pasta de backup e usei o comando 'cat relatorio*' para escrever todos os relatórios para um arquivo novo.
+
+![Consolidador](Evidencias/Consolidar.jpg)
