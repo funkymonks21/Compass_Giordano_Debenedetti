@@ -1,0 +1,67 @@
+id,produto,quantidade,preço,data
+1,bone rosa,5,22.90,01/01/2024
+2,bone preto,7,60.00,02/01/2024
+3,bone azul,3,110.00,03/01/2024
+4,chiclete,2,52.00,04/01/2024
+5,bala 7 belo,10,16.00,05/01/2024
+6,camisa rosa,15,42.00,06/01/2024
+7,bermuda cinza,12,51.00,07/01/2024
+8,tênis branco,5,127.00,08/01/2024
+9,bone branco,20,13.00,09/01/2024
+10,casaco de couro,10,152.00,10/01/2024
+11,mochila pequena,2,61.00,11/01/2024
+12,atlas,20,24.00,12/01/2024
+13,caderneta,14,83.00,13/01/2024
+14,lápis de cor,1,12.00,14/01/2024
+15,apagador,12,01.50,15/01/2024
+16,estojo,13,22.50,16/01/2024
+17,regua,15,41.00,17/01/2024
+18,pincel,4,52.00,18/01/2024
+19,papelito sulfite A4 500 folhas,9,250.00,19/01/2024
+20,caderno sanfonado,10,350.00,20/01/2024
+21,fone com fio,12,800.00,21/01/2024
+22,mouse sem fio,1,500.00,22/01/2024
+23,filtro de etileno,50,30.00,23/01/2024
+24,roteador,14,15.00,24/01/2024
+25,mousepad,9,2.00,25/01/2024
+26,cachorro de mesa,21,40.00,26/01/2024
+27,ventilador de parede,4,20.00,27/01/2024
+28,porta-retrato analogico,1,100.00,28/01/2024
+29,secadora de roupas,2,150.00,29/01/2024
+30,relogio digital,7,60.00,30/01/2024
+31,furadeira manual,5,200.00,31/01/2024
+32,jogo de panelas tramontina,9,120.00,01/02/2024
+33,colher elétrica,6,80.00,02/02/2024
+34,panela elétrica,4,40.00,03/02/2024
+35,cooktop,9,50.00,04/02/2024
+36,liquidificador,2,300.00,05/02/2024
+52,guitarra elétrica cat,1,2999.00,20/02/2024
+53,amplificador de baixo,9,799.00,21/02/2024
+54,pedaleira branca,4,499.00,22/02/2024
+55,cabo para instrumento samurai,11,59.00,23/02/2024
+56,palheta casio,24,1.00,24/02/2024
+57,desafinador digital,2,49.00,25/02/2024
+58,tinta luxcolor,3,99.00,26/02/2024
+59,suporte para microfone,9,29.00,27/02/2024
+60,correia para violão,5,19.00,28/02/2024
+61,encordoamento para guitarra elétrica,12,39.00,01/03/2024
+62,baixo acústico,13,299.00,02/03/2024
+63,capa para violoncelo,20,99.00,03/03/2024
+64,banqueta para violoncelo,9,69.00,04/03/2024
+65,limpador de parede,1,29.00,05/03/2024
+66,clarineta,10,1999.00,06/03/2024
+67,suporte para clarineta,12,79.00,07/03/2024
+68,estojo para clarineta,15,9999,08/03/2024
+70,violino,4,4359.00,10/03/2024
+71,suporte para violino,2,32.69,11/03/2024
+76,teclado musical edifier,10,784.98,16/03/2024
+77,sintetizador de som,12,324.12,17/03/2024
+78,controlador,13,124.00,18/03/2024
+79,caixa de som samsung,18,39.99,19/03/2024
+80,microfone sem fio edifier,13,2000.00,20/03/2024
+81,pedestal para guitarra,20,150.00,21/03/2024
+82,cabo para fone,1,12.50,22/03/2024
+83,caixa de madeira,18,789.00,24/03/2024
+85,mixer de áudio,12,888.00,25/03/2024
+86,fone de ouvido profissional edifier,13,300.00,27/03/2024
+88,monitor aoc 24,12,990.00,31/04/2024

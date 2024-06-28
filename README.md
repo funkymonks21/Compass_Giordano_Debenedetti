@@ -1,4 +1,4 @@
-# Giordano Rafael Aridi Debenedetti <h1> 
+# Giordano Rafael Aridi Debenedetti
 
 ![20240126_173420](https://github.com/funkymonks21/Compass_Giordano_Debenedetti/assets/83867955/75f16feb-eb70-4308-8ab5-c6635c78e55b)
 
@@ -13,5 +13,5 @@ Meus passatempos favoritos são jogar videogames, jogos de tabuleiro e carta. Ta
 
 Além dos meu trabalho, estudo e hobbies, faço trabalho voluntário na Bem-estar animal, auxiliando nos cuidados com os animais desalojados pela enchente que assolou o Rio Grande do Sul e faço trabalho voluntário em escolas de regiões carentes de Canoas, financiando e preparando refeições para os alunos.
 
-# Sprints <h1>
+## Sprints
 

@@ -1,0 +1,15 @@
+Data do relatorio: 2024/06/25 14:20
+Data da primeira venda: 01/01/2023
+Data da ultima compra: 31/01/2023
+Total de produtos vendidos : 475
+Ultimas 10 vendas: 
+77,sintetizador de voz,3,324.12,17/03/2023
+78,controlador com cabo usb,4,124.00,18/03/2023
+79,caixa de som jbl,2,39.99,19/03/2023
+80,microfone sem fio shure,3,2000.00,20/03/2023
+81,pedestal para microfone,6,150.00,21/03/2023
+82,cabo para microfone,10,12.50,22/03/2023
+83,caixa acústica,8,789.00,24/03/2023
+85,mixer de áudio behringer,2,888.00,25/03/2023
+86,fone de ouvido profissional akg,3,300.00,27/03/2023
+88,monitor yamaha hs5,2,990.00,31/01/2023

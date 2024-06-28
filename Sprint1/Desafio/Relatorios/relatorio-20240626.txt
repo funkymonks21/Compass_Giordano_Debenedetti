@@ -1,0 +1,15 @@
+Data do relatorio: 2024/06/26 15:53
+Data da primeira venda: 01/01/2024
+Data da ultima compra: 31/04/2024
+Total de produtos vendidos : 653
+Ultimas 10 vendas: 
+77,sintetizador de som,12,324.12,17/03/2024
+78,controlador,13,124.00,18/03/2024
+79,caixa de som samsung,18,39.99,19/03/2024
+80,microfone sem fio edifier,13,2000.00,20/03/2024
+81,pedestal para guitarra,20,150.00,21/03/2024
+82,cabo para fone,1,12.50,22/03/2024
+83,caixa de madeira,18,789.00,24/03/2024
+85,mixer de áudio,12,888.00,25/03/2024
+86,fone de ouvido profissional edifier,13,300.00,27/03/2024
+88,monitor aoc 24,12,990.00,31/04/2024

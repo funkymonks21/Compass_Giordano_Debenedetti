@@ -1,0 +1,15 @@
+Data do relatorio: 2024/06/27 15:15
+Data da primeira venda: 01/06/2024
+Data da ultima compra: 31/08/2024
+Total de produtos vendidos : 66
+Ultimas 10 vendas: 
+77,greed,1,324.12,17/08/2024
+78,shiva dragon,1,124.00,18/08/2024
+79,ragavan,1,39.99,19/08/2024
+80,kozilek,1,2000.00,20/08/2024
+81,emrakul,1,150.00,21/08/2024
+82,lost vale,1,12.50,22/08/2024
+83,eiganjo,1,789.00,24/08/2024
+85,minamo,1,888.00,25/08/2024
+86,llanowar elves,1,300.00,27/08/2024
+88,counterspell,1,990.00,31/08/2024

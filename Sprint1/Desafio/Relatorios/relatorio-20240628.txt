@@ -1,0 +1,15 @@
+Data do relatorio: 2024/06/28 15:12
+Data da primeira venda: 01/09/2021
+Data da ultima compra: 31/11/2021
+Total de produtos vendidos : 1498
+Ultimas 10 vendas: 
+77,manche,14,324.12,17/11/2021
+78,nintendo 3ds,12,124.00,18/11/2021
+79,gameboy,90,39.99,19/11/2021
+80,pokemon saphire,6,2000.00,20/11/2021
+81,gta 5,2,150.00,21/11/2021
+82,god of war,4,12.50,22/11/2021
+83,fifa 24,6,789.00,24/11/2021
+85,football manager 24,5,888.00,25/11/2021
+86,watercooler,2,300.00,27/11/2021
+88,dissipador de calor,5,990.00,31/11/2021
