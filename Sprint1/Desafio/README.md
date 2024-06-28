@@ -1,5 +1,29 @@
 # Desafio
 
+## Referências
+
+1. [Scripts](./Scripts/)
+2. [Dados de Vendas](./Dados_de_Vendas/)
+3. [Relatórios](./Relatorios/)
+4. [Backups](./Backups/)
+
+### Passo a passo
+
+Para realização do script:
+
+ 1. Baixe o arquivo "dados_de_vendas.csv", "processamento_de_vendas.sh" e "consolidador_de_processamento_de_vendas.sh" para a home do usuário.
+ 2. Baixe o script na pasta home do usuário.
+ 3. Dê permissão para o script executar, utilize o comando 
+
+``` bash
+       "chmod u+x ~/processamento_de_vendas.sh"
+ ```
+
+ 4. Execute o script "processamento_de_vendas.csv"
+ 5. Execute o script "consolidador_de_processamento_de_vendas.sh
+
+### Começando
+
 Para realizar o desafio, utilizei o Ubuntu 24.04 em WSL, como recomendado, além do Visual Studio para vincular o GitHub com os repositórios locais.
 
 Primeiro passo do desafio por passar os arquivos que estavam no ambiente windows, para o ambiente linux, para isso, utilizei o comando para "cd" navegar entre as pastas do windows
@@ -7,7 +31,7 @@ Primeiro passo do desafio por passar os arquivos que estavam no ambiente windows
  e "cp" para fazer a cópia para o linux.
 ![Colando](Evidencias/CP_Desafio.jpg)
 
-## Script
+### Script
 
 Depois fui fazer o script pedido. Preferi usar o Nano pela praticidade e interface mais intuitiva.
 Criei apenas duas variáveis, uma para a data do sistema em formato YYYYMMDD e uma para o diretório "ecommerce/vendas".
@@ -33,25 +57,9 @@ Usei o parâmetro "-F," para delimitar os campos por ','. 'NR>1' para aplicar os
 Por fim, 'zip' para compactar o backup e 'rm' para excluir os arquivos das pastas.
 ![Compactando](Evidencias/ZIP_BACKUP.jpg)
 
-## Agendando e rodando o script
+### Agendando e rodando o script
 
 Para poder executar o script, é necessário dar permissão para tal, para isso, utilizei "chmod u+x ~/processamento_de_vendas".
 
 Por fim, agendei a execução do script usando o cron. Para isso, acessei o cron pelo comando "crontab -e" e marquei a execução do script, para executar todos os dias as 15:12.
 ![Cron](Evidencias/Cron.jpg)
-
-
-## Passo a passo
-
-Para realização do script:
-
- 1. Baixe o arquivo "dados_de_vendas.csv", "processamento_de_vendas.sh" e "consolidador_de_processamento_de_vendas.sh" para a home do usuário.
- 2. Baixe o script na pasta home do usuário.
- 3. Dê permissão para o script executar, utilize o comando 
-
-``` bash
-       "chmod u+x ~/processamento_de_vendas.sh"
- ```
- 
- 4. Execute o script "processamento_de_vendas.csv"
- 5. Execute o script "consolidador_de_processamento_de_vendas.sh
