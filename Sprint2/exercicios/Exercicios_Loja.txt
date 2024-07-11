@@ -1,0 +1,103 @@
+E08 Apresente a query para listar o código e o nome do vendedor com maior número de vendas (contagem),
+e que estas vendas estejam com o status concluída.  As colunas presentes no resultado devem ser, portanto, cdvdd e nmvdd.
+
+SELECT t.cdvdd, t.nmvdd 
+from tbvendedor t
+join tbvendas t2
+	on t2.cdvdd = t.cdvdd 
+where t2.status = 'Concluído'
+group by t.cdvdd, t.nmvdd 
+order by count(t2.cdven) DESC
+limit 1
+
+E09 Apresente a query para listar o código e nome do produto mais vendido entre as datas de 2014-02-03 até 2018-02-02,
+e que estas vendas estejam com o status concluída. As colunas presentes no resultado devem ser cdpro e nmpro.
+
+SELECT t.cdpro, t.nmpro
+from tbvendas t
+WHERE
+	t.dtven BETWEEN '2014-02-03' and '2018-02-02'
+	and t.status = 'Concluído'
+group by t.cdpro, t.nmpro 
+order by SUM(t.qtd) desc
+limit 1
+
+E10 Com base em tais informações, calcule a comissão de todos os vendedores, considerando todas as vendas armazenadas na base de dados com status concluído.
+As colunas presentes no resultado devem ser vendedor, valor_total_vendas e comissao.
+O valor de comissão deve ser apresentado em ordem decrescente arredondado na segunda casa decimal.
+
+select
+	t.nmvdd as vendedor,
+	SUM(t2.qtd * t2.vrunt) as valor_total_vendas,
+	ROUND(SUM(t2.qtd * t2.vrunt)*t.perccomissao/100, 2) as comissao
+from tbvendedor t 
+left join tbvendas t2 
+	on t.cdvdd = t2.cdvdd
+WHERE t2.status = 'Concluído'
+group by t.cdvdd
+order by comissao DESC 
+
+E11 Apresente a query para listar o código e nome cliente com maior gasto na loja.
+As colunas presentes no resultado devem ser cdcli, nmcli e gasto, esta última representando o somatório das vendas (concluídas) atribuídas ao cliente.
+
+select cdcli, nmcli, sum(t.qtd *t.vrunt) as gasto
+from tbvendas t
+where t.status = 'Concluído'
+group by cdcli 
+order by gasto desc
+limit 1
+
+E12 Apresente a query para listar código, nome e data de nascimento dos dependentes do vendedor com menor valor total bruto em vendas (não sendo zero).
+As colunas presentes no resultado devem ser cddep, nmdep, dtnasc e valor_total_vendas.
+
+with total_vendas as (
+	SELECT tsub.cdvdd, SUM(tsub.qtd*tsub.vrunt) as valor_total_vendas
+	from tbvendas tsub
+	where tsub.status = 'Concluído'
+	group by tsub.cdvdd
+	having valor_total_vendas > 0
+	order by valor_total_vendas	
+)
+SELECT t.cddep, t.nmdep, t.dtnasc, vtl.valor_total_vendas
+from tbdependente t
+join total_vendas vtl on vtl.cdvdd = t.cdvdd
+order by valor_total_vendas
+limit 1
+
+E13 Apresente a query para listar os 10 produtos menos vendidos pelos canais de E-Commerce ou Matriz (Considerar apenas vendas concluídas).
+As colunas presentes no resultado devem ser cdpro, nmcanalvendas, nmpro e quantidade_vendas.
+
+select t.cdpro, t.nmcanalvendas, t.nmpro, sum(t.qtd) as quantidade_vendas
+from tbvendas t 
+where t.status = 'Concluído' 
+group by t.cdpro, t.nmcanalvendas 
+order by quantidade_vendas
+limit 10
+
+E14 Apresente a query para listar o gasto médio por estado da federação. As colunas presentes no resultado devem ser estado e gastomedio.
+Considere apresentar a coluna gastomedio arredondada na segunda casa decimal e ordenado de forma decrescente.
+
+SELECT t.estado, ROUND(AVG(t.qtd*t.vrunt),2) as gastomedio
+from tbvendas t
+where t.status = 'Concluído' 
+group by t.estado 
+order by gastomedio DESC
+
+E15 Apresente a query para listar os códigos das vendas identificadas como deletadas.
+Apresente o resultado em ordem crescente.
+
+select t.cdven 
+from tbvendas t 
+where t.deletado = 1
+order by t.cdven 
+
+E16 Apresente a query para listar a quantidade média vendida de cada produto agrupado por estado da federação.
+As colunas presentes no resultado devem ser estado e nmprod e quantidade_media.
+Considere arredondar o valor da coluna quantidade_media na quarta casa decimal.
+Ordene os resultados pelo estado (1º) e nome do produto (2º).
+
+select t.estado, t.nmpro ,round(avg(t.qtd),4) as quantidade_media
+from tbvendas t
+where t.status = 'Concluído' 
+group by t.estado, t.cdpro 
+order by t.estado, quantidade_media
