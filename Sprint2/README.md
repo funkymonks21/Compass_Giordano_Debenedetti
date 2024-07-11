@@ -1,43 +1,27 @@
 
-# Instruções
+# SPRINT 2
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+Esse foi o meu primeiro contato com base de dados. O curso da udemy me ajudou muito a compreender os comandos e sintaxe no SQL, algumas outras funções e comandos utilizados no desafio eu aprendi de outras fontes da internet.
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+O material sobre modelagem de dados também foi muito enriquecedor. Tive algumas dificuldades de compreender a ordem de execução das formas normais, porém com a ajuda da monitora, acredito ter tido êxito em entender o processo.
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+## Exercícios
 
+As respostas para os exercícios da Sprint 2 estão nesses arquivos .txt abaixo
 
-# Exercícios
+- [Exercícios - Biblioteca](exercicios/Exercicios_Biblioteca.txt)
+- [Exercícios - Loja](exercicios/Exercicios_Loja.txt)
+- [Exercícios - CSV - 1](exercicios/Exercicio_CSV1.txt)
+- [Exercícios - CSV - 2](exercicios/Exercicio_CSV2.txt)
 
+Os arquivos CSV resultantes dos dois exercícios anteriores estão [aqui](exercicios/Exercicio_CSV1.csv) e [aqui](exercicios/Exercicio_CSV2.csv).
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+### Desafio
 
+README para o desafio
+[Desafio](Desafio/README.md)
 
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+### Certificado
 
-
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
-
+- Certificado do Curso AWS Partner: Sales Accreditation
+[Sales Accreditation](certificados/13660_3_5857331_1720725385_AWS%20Course%20Completion%20Certificate.pdf)
