@@ -3,7 +3,7 @@
 
 Esse foi o meu primeiro contato com base de dados. O curso da udemy me ajudou muito a compreender os comandos e sintaxe no SQL, algumas outras funções e comandos utilizados no desafio eu aprendi de outras fontes da internet.
 
-O material sobre modelagem de dados também foi muito enriquecedor. Tive algumas dificuldades de compreender a ordem de execução das formas normais, porém com a ajuda da monitora, acredito ter tido êxito em entender o processo.
+O material sobre modelagem de dados também foi muito enriquecedor. Tive algumas dificuldades de compreender a ordem de execução das formas normais, porém com a ajuda da monitora, acredito ter tido êxito em entender e executar o processo de maneira correta.
 
 ## Exercícios
 
@@ -24,4 +24,4 @@ README para o desafio
 ### Certificado
 
 - Certificado do Curso AWS Partner: Sales Accreditation
-[Sales Accreditation](certificados/13660_3_5857331_1720725385_AWS%20Course%20Completion%20Certificate.pdf)
+![Sales Accreditation](certificados/13660_3_5857331_1720725385_AWS%20Course%20Completion%20Certificate_page-0001.jpg)
