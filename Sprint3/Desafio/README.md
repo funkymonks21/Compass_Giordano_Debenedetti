@@ -76,7 +76,7 @@ O resultado foi esse:
 
 ## Etapa 6 - Mostrar quantos apps tem o Rating "Mature 17+"
 
-Primeira etapa foi formatar a coluna. Após a formatação, foi hora de obter o dado da quantidade de apps com Rating "Mature 17+" 
+Primeira etapa foi formatar a coluna. Após a formatação, foi hora de obter o dado da quantidade de apps com Rating "Mature 17+"
 
 ![apps_mature](../evidencias/apps_mature.jpg)
 
@@ -94,7 +94,7 @@ Depois, fiz a lista dos top 10 apps por número de reviews
 
 ![top10_review](../evidencias/top10_review.jpg)
 
-O resultado foi esse: 
+O resultado foi esse:
 
 ![resul_lista_review](../evidencias/resul_lista_review.jpg)
 
@@ -104,7 +104,7 @@ Para o cálculo em forma de lista, escolhi cálcular os top 10 aplicativos pagos
 
 ![lista_receita](../evidencias/lista_receita.jpg)
 
-O resultado foi esse: 
+O resultado foi esse:
 
 ![lista_app_receita](../evidencias/lista_app_receita.jpg)
 
