@@ -7,6 +7,8 @@ Depois de ter terminado o Cloud Quest, comecei a trabalhar com o desafio.
 
 Após o término do desafio, concluí o curso de preparação da prova da AWS. Onde compreendi melhor o formato da prova, o conteúdo que vai ser cobrado e as suas regras.
 
+Como tive mais tempo, aproveitei para finalizar alguns dos cursos opicionais que ficaram pendendes. Como o de Scrum e Segurança.
+
 ## Desafio
 
 README para o desafio: -> [Desafio](Desafio/README.md)
@@ -14,7 +16,7 @@ README para o desafio: -> [Desafio](Desafio/README.md)
 ### Certificado
 
 - Certificado do Curso AWS Partner: Cloud Quest
-![Technical Essencials](certificados/aws_technical.jpg)
+![CloudQuest](certificados/Certificado_Cloud_Quest.jpg)
 
 - Certificado do Curso AWS Partner: Curso Padrão de Preparação para o exame
-![Technical Accreditation](certificados/aws_tech_br.jpg)
+![Prep Exam](certificados/Certificado_Prep_Exame.jpg)
