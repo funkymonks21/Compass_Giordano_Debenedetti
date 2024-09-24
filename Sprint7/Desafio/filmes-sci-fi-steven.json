@@ -1,0 +1,223 @@
+[
+    {
+        "id": 74,
+        "imdb_id": "tt0407304",
+        "title": "War of the Worlds",
+        "release_date": "2005-06-28",
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "budget": 132000000,
+        "revenue": 603873119,
+        "vote_average": 6.511,
+        "vote_count": 8249,
+        "popularity": 45.038
+    },
+    {
+        "id": 180,
+        "imdb_id": "tt0181689",
+        "title": "Minority Report",
+        "release_date": "2002-06-20",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "budget": 102000000,
+        "revenue": 358372926,
+        "vote_average": 7.352,
+        "vote_count": 8572,
+        "popularity": 43.549
+    },
+    {
+        "id": 329,
+        "imdb_id": "tt0107290",
+        "title": "Jurassic Park",
+        "release_date": "1993-06-11",
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "budget": 63000000,
+        "revenue": 920100000,
+        "vote_average": 7.95,
+        "vote_count": 16111,
+        "popularity": 28.647
+    },
+    {
+        "id": 330,
+        "imdb_id": "tt0119567",
+        "title": "The Lost World: Jurassic Park",
+        "release_date": "1997-05-23",
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "budget": 73000000,
+        "revenue": 618638999,
+        "vote_average": 6.536,
+        "vote_count": 8247,
+        "popularity": 2.254
+    },
+    {
+        "id": 601,
+        "imdb_id": "tt0083866",
+        "title": "E.T. the Extra-Terrestrial",
+        "release_date": "1982-06-11",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "budget": 10500000,
+        "revenue": 792965500,
+        "vote_average": 7.519,
+        "vote_count": 11048,
+        "popularity": 48.254
+    },
+    {
+        "id": 644,
+        "imdb_id": "tt0212720",
+        "title": "A.I. Artificial Intelligence",
+        "release_date": "2001-06-29",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "budget": 100000000,
+        "revenue": 235926552,
+        "vote_average": 7.0,
+        "vote_count": 6054,
+        "popularity": 26.667
+    },
+    {
+        "id": 840,
+        "imdb_id": "tt0075860",
+        "title": "Close Encounters of the Third Kind",
+        "release_date": "1977-12-14",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 306889114,
+        "vote_average": 7.354,
+        "vote_count": 4141,
+        "popularity": 28.26
+    },
+    {
+        "id": 15301,
+        "imdb_id": "tt0086491",
+        "title": "Twilight Zone: The Movie",
+        "release_date": "1983-06-24",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 29450920,
+        "vote_average": 6.466,
+        "vote_count": 701,
+        "popularity": 32.228
+    },
+    {
+        "id": 333339,
+        "imdb_id": "tt1677720",
+        "title": "Ready Player One",
+        "release_date": "2018-03-28",
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "budget": 175000000,
+        "revenue": 607274134,
+        "vote_average": 7.6,
+        "vote_count": 15408,
+        "popularity": 85.537
+    }
+]
