@@ -2,6 +2,8 @@
 
 O desafio da Sprint 8 pede para fazer a limpeza dos dados oriundos do CSV e da API do TMDB, devemos fazer isso programando um job no AWS Glue, na linguagem Spark. Depois de fazer essa limpeza, devemos salvar os arquivos no formato *parquet* e um caminho de diretórios com base *trusted*.
 
+A minha análise será feita em cima dos filmes de ficção científica dirigidos pelo Steven Spielberg. A minha ideia principal é fazer uma análise baseado no sucesso financeiro e de público dos filmes que ele dirigiu.
+
 ## Etapa 1 - Arquivo CSV
 
 A primeira etapa é referente ao arquivo csv oriundo do IMDB.
